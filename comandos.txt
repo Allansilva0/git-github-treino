@@ -2,3 +2,6 @@ git status
 git add
 git commit
 git push
+adicionando mais
+git branch
+git checkout -b feature-anotacoes
