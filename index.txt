@@ -1,1 +1,3 @@
-Treino com git e github
+1 - Treino com Git e GitHub
+2 - treinamento
+3 - enviando nova versão para o GitHub
